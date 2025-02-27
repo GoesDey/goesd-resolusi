@@ -2,7 +2,10 @@ rencana konten
 - js
 *ES6
 *Framework
+  * Angular
+  * React
 - fundamental data dasar
 - php
+* Laravel
 - interview
 - vlog
