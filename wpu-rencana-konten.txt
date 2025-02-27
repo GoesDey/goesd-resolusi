@@ -2,6 +2,7 @@ rencana konten
 - js
 *ES6
 *Framework
+- fundamental data dasar
 - php
 - interview
 - vlog
