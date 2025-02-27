@@ -1,6 +1,0 @@
-Goesd Resolusi
-- Web
-- Program
-- Machine Learning
-- Data
-- Iot
