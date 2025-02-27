@@ -2,3 +2,5 @@ Goesd Resolusi
 - Web
 - Program
 - AI
+- Machine Learning
+- Data
