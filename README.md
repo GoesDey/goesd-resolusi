@@ -1,0 +1,2 @@
+# goesd-resolusi
+menyimpan rencana
