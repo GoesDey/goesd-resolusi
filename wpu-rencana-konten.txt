@@ -4,6 +4,7 @@ rencana konten
 *Framework
   * Vue
   * react
+  * Angular
 - fundamental data dasar
 - php
   * Laravel
