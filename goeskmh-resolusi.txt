@@ -1,0 +1,4 @@
+Resolusi
+
+- Membuat website menggunakan Framework Javascript
+- Membuat StartUp
